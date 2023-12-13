@@ -1,9 +1,9 @@
 ### Olá, seja bem vindo! 👋
 
 <div style="display: inline_block">
-  <a href="#">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeHibrael&show_icons=true&theme=react" />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FilipeHibrael&layout=compact&langs_count=8&theme=react" />
+  <a href="">
+    <img height="192em" align="center" src="https://github-readme-stats.vercel.app/api?username=FilipeHibrael&show_icons=true&theme=react" />
+    <img height="192em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FilipeHibrael&layout=compact&langs_count=8&theme=react" />
 </div>
 
 ---
